@@ -4,7 +4,7 @@ import './App.css';
 import Header_Section from './components/Header';
 import Agenda from './components/Agenda';
 import Talk_Agenda from './components/talk_item';
-import Footer from './footer';
+import Footer from './components/footer';
 
 
 function App() {
